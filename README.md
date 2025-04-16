@@ -1,8 +1,8 @@
 # BN-Business-annonce-
 Annonce job
-Thank you for downloading Forge Business! This script is designed to manage business opening and closing functionalities for RolePlay servers in FiveM. It includes a sleek and modern UI, customizable settings, and role-based access, making it a must-have for server administrators and business role players.
+Thank you for downloading Benkiran Business! This script is designed to manage business opening and closing functionalities for RolePlay servers in FiveM. It includes a sleek and modern UI, customizable settings, and role-based access, making it a must-have for server administrators and business role players.
 
-Features
+# Features
 Business State Management: Open and close businesses with ease.
 
 Modern and Sleek UI: Includes animations and an intuitive interface with lock/unlock icons.
@@ -13,20 +13,20 @@ Optimized Performance: Built to ensure low resource consumption and compatibilit
 
 Translation Support: Configurable labels and messages for localization.
 
-image
+# image
 ![17447643194855349440573494975718](https://github.com/user-attachments/assets/0f60ecc7-ec45-4a29-9c19-6a1656d05051)
 
-Premium Scripts
+# Premium Scripts
 We offer a variety of premium scripts to enhance your server. Visit our store for more details:
 
-Forge Store
+# Benkiran Dev
 
 Support
 Need assistance? Join our Discord community for support and updates:
 
-Forge Discord
 
-Thank you for choosing Forge Business!
+
+Thank you for choosing Benkiran Business!
 
 A small gift from Forge and me! We’ve added a ton of new features! Now it’s truly a cool, cool script!
 
